@@ -1,0 +1,137 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+body {
+    font-family: 'Fredoka', sans-serif;
+}
+
+nav {
+    background-color: #F4F6FC;
+    background-position: top;
+    border: 2px solid #CAE8FF;
+    text-decoration: none;
+    color: #050A30;
+}
+
+nav img{
+    width: 5rem;
+}
+.cesar {
+    height: 100%;
+    align-items: center;  
+    background-color: #050A30; 
+}
+
+.texto1{
+    height: 100%;
+    color: #F4F6FC;
+    padding-bottom: 20px;
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 2rem;
+}
+
+.info-content {
+    height: 23rem;
+    padding: 2rem;
+}
+
+.info-content p {
+    font-size: 1.3rem;
+    font-weight: 200;
+    margin-bottom: 2rem;
+}
+
+.info-content span {
+    color: #5CB6F9;
+}
+
+.sobre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F4F6FC;
+    color: #050A30;
+}
+
+.sobre img {
+    width: 100%;
+}
+
+.sobreText {
+    padding: 3em;
+}
+
+.sobre h2 {
+    font-size: 3rem;
+    color: #191c32;
+    margin-bottom: 2rem;
+}
+.projetos {
+    height: 100%;
+    align-items: center;
+    padding: 10px;
+    color: #050A30;
+}
+.projetos h2 {
+    padding-top: 20px;
+    text-align: center;
+    
+}
+
+.tecnologias {
+    padding: 10px;
+    color: #050A30;
+
+}
+
+.tecnologias li {
+    height: auto;
+    margin-bottom: 5px;
+    
+}
+
+.contato {
+    height: 100%;
+    padding: 10px;
+    color: #050A30;
+    text-align: center;
+    margin-top: 10px;
+}
+.contato h2 {
+    color: #5CB6F9;
+}
+
+footer {
+    background-color: #F4F6FC;
+    text-align: center;
+    padding: 2rem 2rem;
+}
+
+footer h3 {
+    font-family: 1rem;
+    font-weight: 100;
+    margin-top: 1rem;
+}
+
+.icons a {
+    text-decoration: none;
+    color: #12229D;
+}
+
+@media screen and (min-width: 768px) {
+   
+}
+
+@media screen and (min-width: 1200px) {
+
+}
+
+
+
+
